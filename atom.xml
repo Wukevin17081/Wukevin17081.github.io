@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>哈小奇的學習網站</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wukevin17081.github.io/"/>
+  <updated>2016-07-07T18:12:45.821Z</updated>
+  <id>https://wukevin17081.github.io/</id>
+  
+  <author>
+    <name>Wu Kevin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工作，變動，穩定</title>
+    <link href="https://wukevin17081.github.io/2016/07/07/SteadyWorkIsHorrible/"/>
+    <id>https://wukevin17081.github.io/2016/07/07/SteadyWorkIsHorrible/</id>
+    <published>2016-07-07T11:29:33.000Z</published>
+    <updated>2016-07-07T18:12:45.821Z</updated>
+    
+    <content type="html">&lt;p&gt;追求穩定的人生是一件很恐怖的事。&lt;/p&gt;
+ &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;今天在換日線上看到這篇文章 &lt;a href=&quot;http://www.cw.com.tw/blog/blogTopic.action?id=627&amp;amp;nid=6346&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;如果你是金人才，何必尋找鐵飯碗？&lt;/a&gt; 有一點感觸，其實這篇可以跟這篇 &lt;a href=&quot;https://darencademy.com/article/view/id/14415&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;我只想要一個平穩的生活，這有甚麼不好?&lt;/a&gt; 一起搭配來看。從小，大家都想要有一個平穩的生活，所以大家的目標都是找一個穩定的工作，因此很多人的目標都是當公務員，當包租公/婆，每個月都有固定的收入，而且可能能是一筆不小的收入，這樣大概就是人生贏家了。&lt;/p&gt;
+&lt;p&gt;但是他們應該沒有想過如果在這樣的環境待久了，突然遇到什麼變動，就完全沒有求生的能力了。 比如之前的國道收費員裁掉事件， 他們應該都沒有想過有一天會失去工作，總是認為上高速公路總是要收費的，不可能不收錢，所以他們不可能會被裁掉。 但是沒有注意到現在慢慢所有東西都走向自動化，為什麼收費這麼沒有技術性的怎麼可能不用機器取代。&lt;/p&gt;
+&lt;p&gt;其實我以前也是這樣，所以我畢業後進一個很穩定的行業，一個很固定的公司。 但是過了幾年後，我發現不對了。公司都沒有什麼變化，我也沒有什麼變化。換句話說，我一點長進也沒有。 剛好前幾年一波創業的熱朝。我並沒有想要創業，因為我不適合當一個領導者，當然，另一個主要的原因是我也想不到要做什麼。&lt;/p&gt;
+&lt;p&gt;但是當我看到人家創業的故事，甘苦談，需要怎樣的人，適合的專業的時候，我就無法這麼的淡定了。因為我發現我發現我差人家很多。當然，差人很多其實也沒有什麼關系，有自覺，然後增進自已的能力就可以了。所以這二年有開始重新學英文，假日的時候看一些專業的書。本來想說過了一年後找新工作。&lt;/p&gt;
+&lt;p&gt;一年過後，當開始找新工作的時候，發現整個行業都好不到那裡去，一個爛蘋果，另一個爛梨子。 正當我心慌意亂到處找下一個公司時候，發現另一個行業是我想的要， 當然那邊也有一些缺點，也有一些優點，但是工作怎麼可能都是好的，總有一些不如意的地方。 重點是那是一個很競爭的地方。想要活下去，就需要一直加強自已，而且是高強度的。&lt;/p&gt;
+&lt;p&gt;唯一的問題是我的能力不夠，所以我再給自已一年的時間，希望自已可以進去。 又是一年過去，我發現自已這樣不行，下班再進修真的很難，而且還在上班每個月都會有固定的收入，所以就不會真的下定決心努力學習。 所以我決定月底辭職，下個月離開，不這樣做我永遠不會要求自已，我不想再看到別人在學飛了，我還在悠哉的慢慢走。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;追求穩定的人生是一件很恐怖的事。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="日記" scheme="https://wukevin17081.github.io/tags/%E6%97%A5%E8%A8%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用 hexo 建一個 blog</title>
+    <link href="https://wukevin17081.github.io/2016/07/07/BuildHexo/"/>
+    <id>https://wukevin17081.github.io/2016/07/07/BuildHexo/</id>
+    <published>2016-07-07T11:27:58.000Z</published>
+    <updated>2016-07-07T18:06:38.365Z</updated>
+    
+    <content type="html">&lt;p&gt;這篇文章的目的是記錄如何在 github 用 hexo 建一個 blog, 搞不好我以後自已就會用到。&lt;br&gt;用 Hexo 在 Github 搭建 Blog&lt;/p&gt;
+ &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;用-Hexo-在-Github-搭建-Blog&quot;&gt;&lt;a href=&quot;#用-Hexo-在-Github-搭建-Blog&quot; class=&quot;headerlink&quot; title=&quot;用 Hexo 在 Github 搭建 Blog&quot;&gt;&lt;/a&gt;用 Hexo 在 Github 搭建 Blog&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;其實在這之前我有試過用 octepress, 但是那個要先裝 ruby, 偏偏 ruby 對 windows 的支援性好像不是很好，裝了很久環境就是建不起來。&lt;br&gt;最後找到用 hexo 也可以建，而且網路的教學都還滿簡單，所以就決定是你了，本來想說應該半天就可以弄好了，但是不知道怎麼摸魚的，還是花了一天 ….&lt;/p&gt;
+&lt;h2 id=&quot;本機環境&quot;&gt;&lt;a href=&quot;#本機環境&quot; class=&quot;headerlink&quot; title=&quot;本機環境&quot;&gt;&lt;/a&gt;本機環境&lt;/h2&gt;&lt;p&gt;首先要先下載 nodejs 跟 git, 因為 hexo 是建立在 nodejs 上，會用到 git 下一些命令。&lt;br&gt;下載後可以用以下指令測試是否之後要安裝成功。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;node -v&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;npm -v&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;確定完成後接下來就是安裝 hexo&lt;br&gt;執行指令&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;npm install -g hexo&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;然後，順便安裝一個東西，後面部署的時候會用到。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;npm install hexo-deployer-git --save&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;這二個東西裝完後，接下來是建立 blog 的資料夾。&lt;br&gt;在你指定的地方建立一個資料夾，這個資料夾會是你儲存所有 blog 的東西，比如我建在 L:\Hexo 資料夾名稱自訂就可以，不過全英文應該會比較沒有問題。&lt;/p&gt;
+&lt;p&gt;然後進到資料夾，在空白的地方點右鍵，選 git bash 可以執行下面指令。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;hexo init &lt;/div&gt;&lt;div class=&quot;line&quot;&gt;npm install&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;hexo generate&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;這其實做了三件事，初始化，建立網頁，啟動伺服器。&lt;br&gt;啟動伺服器後，你就可以用你的瀏覽器看他預設的網頁了。&lt;br&gt;預設的本地網址是 &lt;code&gt;http://localhost:4000/&lt;/code&gt;你在瀏覽器輸入這個就可以看了。&lt;/p&gt;
+&lt;p&gt;到目前為止是電腦端的設定，再來要建立 github 了。&lt;/p&gt;
+&lt;h2 id=&quot;Github&quot;&gt;&lt;a href=&quot;#Github&quot; class=&quot;headerlink&quot; title=&quot;Github&quot;&gt;&lt;/a&gt;Github&lt;/h2&gt;&lt;p&gt;先到 Github 上申請一個帳號，然後建一個 repository, 這個 repository 的名稱必須跟你的帳號一致。必如你的帳號是 testacc, 那你的 Res 就要叫 testacc.github.io,&lt;/p&gt;
+&lt;p&gt;建立完帳戶後，你還要有 ssh 的 key, 不然你部署的時候會出錯。&lt;br&gt;詳細的說明請看 github 的 help, 我這裡簡述一下。&lt;/p&gt;
+&lt;h3 id=&quot;檢查-ssh-key&quot;&gt;&lt;a href=&quot;#檢查-ssh-key&quot; class=&quot;headerlink&quot; title=&quot;檢查 ssh key&quot;&gt;&lt;/a&gt;檢查 ssh key&lt;/h3&gt;&lt;p&gt;在 git bash 下輸入指令, 確認沒有目前電腦上沒有 ssh key.&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;ls -al ~/.ssh&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;產生-ssh-key&quot;&gt;&lt;a href=&quot;#產生-ssh-key&quot; class=&quot;headerlink&quot; title=&quot;產生 ssh key&quot;&gt;&lt;/a&gt;產生 ssh key&lt;/h3&gt;&lt;p&gt;如果沒有的話要產生一個，在 git bash 下輸入指令, &lt;code&gt;your_email@example.com&lt;/code&gt; 要改成你在 github 註冊的帳號。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;ssh-keygen -t rsa -b 4096 -C “your_email@example.com”&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;之後它會問你要存在哪裡，按 Enter 是預設值&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;Enter a file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;再來它跟你要密碼，這個密碼在等一下把 ssh key 匯到 github 的時候會再輸入一次。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;Enter passphrase (empty for no passphrase): [Type a passphrase]&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;Enter same passphrase again: [Type passphrase again]&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;加入-ssh-key-到-ssh-agent&quot;&gt;&lt;a href=&quot;#加入-ssh-key-到-ssh-agent&quot; class=&quot;headerlink&quot; title=&quot;加入 ssh key 到 ssh agent&quot;&gt;&lt;/a&gt;加入 ssh key 到 ssh agent&lt;/h3&gt;&lt;p&gt;在 git bash 輸入以下指令, 打開 ssh agent, 然後將你新建的 ssh key 加入 agent 裡。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;eval &amp;quot;$(ssh-agent -s)&amp;quot;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;ssh-add ~/.ssh/id_rsa&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;加入-ssh-key-到-github&quot;&gt;&lt;a href=&quot;#加入-ssh-key-到-github&quot; class=&quot;headerlink&quot; title=&quot;加入 ssh key 到 github&quot;&gt;&lt;/a&gt;加入 ssh key 到 github&lt;/h3&gt;&lt;p&gt;再輸入以下指令將 ssh key 複製到剪貼簿裡，如果你要用你電腦原本就有的，那要把後面的 id_rsa 改成你要的 ssh key 名稱。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;clip &amp;lt; ~/.ssh/id_rsa.pub&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;回到 github 裡， 在 profile -&amp;gt; setting 裡，旁邊的 sidebar 裡選 SSH keys&lt;/p&gt;
+&lt;p&gt;再點 New SSH key. 在 title 欄位裡輸入這個 key 的名稱，在下面 key 的欄位裡貼上剛剛已經複制到你的剪貼簿的 ssh key. 假如沒有的話，再執行一次 clip &amp;lt; ~/.ssh/id_rsa.pub 指令。&lt;/p&gt;
+&lt;p&gt;按下 add 增加新的 key。假如你剛剛建立 key 的時候有設密碼的話，這個時候會要你輸入密碼，把你剛剛設定的密碼輸入進去。&lt;/p&gt;
+&lt;h3 id=&quot;測試&quot;&gt;&lt;a href=&quot;#測試&quot; class=&quot;headerlink&quot; title=&quot;測試&quot;&gt;&lt;/a&gt;測試&lt;/h3&gt;&lt;p&gt;到此應該已經建好 key 了，可以在 git bash 裡輸入以下指令，測試是否有問題。&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;ssh -T git@github.com&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;如果沒有的話，應該會出現&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;Hi username! You&amp;apos;ve successfully authenticated, but GitHub does not provide shell access.&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;部署&quot;&gt;&lt;a href=&quot;#部署&quot; class=&quot;headerlink&quot; title=&quot;部署&quot;&gt;&lt;/a&gt;部署&lt;/h2&gt;&lt;p&gt;在 Hexo 安裝的資料夾下有一個 _config.yml, 在最後加上&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;deploy:&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  type: git&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  repository: git@github.com:github帳號/github帳號.github.com.git&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;  branch: master&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;存檔之後，執行&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;hexo deploy&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;沒有問題的話，你就可以在 github 上看到你的 blog 了。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這篇文章的目的是記錄如何在 github 用 hexo 建一個 blog, 搞不好我以後自已就會用到。&lt;br&gt;用 Hexo 在 Github 搭建 Blog&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://wukevin17081.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇文章</title>
+    <link href="https://wukevin17081.github.io/2016/07/07/FirstArticle/"/>
+    <id>https://wukevin17081.github.io/2016/07/07/FirstArticle/</id>
+    <published>2016-07-07T11:25:57.000Z</published>
+    <updated>2016-07-07T18:24:36.046Z</updated>
+    
+    <content type="html">&lt;p&gt;開版總是要來寫一下精神感言之類的東西，之所以會在 github 開 blog 是因為想要記錄一些在學東西上的筆記。&lt;br&gt;但是如果只是一個人學，又總是半途而廢，所以想說開一個 blog， 有學到什麼東西，整理之後就 po 上來，這樣應該會比較有動力。&lt;/p&gt;
+&lt;p&gt;理想的目標是每天一篇，但是我有看到很多寫 blog 很久的人，對他們來說每天一篇也是很吃力的事，所以我這個新手還是先一個星期一篇好了，如果可以一個禮拜也可以多發幾篇。當然也不一定是發筆記，也有可能是日記，像這篇一樣。或者是看了什麼電影，書之類的心得。&lt;/p&gt;
+&lt;p&gt;總之，目標先是量，一個星期一篇，之後再講質的事。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;開版總是要來寫一下精神感言之類的東西，之所以會在 github 開 blog 是因為想要記錄一些在學東西上的筆記。&lt;br&gt;但是如果只是一個人學，又總是半途而廢，所以想說開一個 blog， 有學到什麼東西，整理之後就 po 上來，這樣應該會比較有動力。&lt;/p&gt;
+&lt;p&gt;理想的目
+    
+    </summary>
+    
+    
+      <category term="日記" scheme="https://wukevin17081.github.io/tags/%E6%97%A5%E8%A8%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wukevin17081.github.io/2016/07/07/hello-world/"/>
+    <id>https://wukevin17081.github.io/2016/07/07/hello-world/</id>
+    <published>2016-07-07T07:34:22.292Z</published>
+    <updated>2016-07-07T08:43:05.371Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo generate&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo deploy&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
