@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wukevin17081.github.io/"/>
-  <updated>2016-07-08T12:34:48.999Z</updated>
+  <updated>2016-07-08T12:37:25.551Z</updated>
   <id>https://wukevin17081.github.io/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>RebuildHexo</title>
+    <title>重建 Hexo</title>
     <link href="https://wukevin17081.github.io/2016/07/08/RebuildHexo/"/>
     <id>https://wukevin17081.github.io/2016/07/08/RebuildHexo/</id>
     <published>2016-07-08T11:15:24.000Z</published>
-    <updated>2016-07-08T12:34:48.999Z</updated>
+    <updated>2016-07-08T12:37:25.551Z</updated>
     
     <content type="html">&lt;p&gt;因為我之前的電腦出了問題，所以我硬碟的資料有很多都不見了，Blog 也是其中之一。 所以我必須整個重建整個環境，因為這個過程其實是太痛苦了，所以把他記錄下來，希望下一次不會這麼麻煩，或者不要用到更好。&lt;/p&gt;
  &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
